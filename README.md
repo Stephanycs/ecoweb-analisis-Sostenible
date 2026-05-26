@@ -1,4 +1,4 @@
-# Analisis de Sostenibilidad Web de Empresas Climaticas 🌿
+# Analisis de Sostenibilidad Web de Empresas Climaticas 
 
 ## Descripcion
 Analisis exploratorio de 509 empresas climaticas a nivel mundial,
@@ -30,4 +30,4 @@ de CO2 por visita, peso de pagina y uso de hosting verde.
 6. Informe final con recomendaciones
 
 ## Autora
-Stephany — Medellin, Colombia
+Stephany Carrasco Sardon — Medellin, Colombia
